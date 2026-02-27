@@ -1,0 +1,15 @@
+# Phone Book Program Requirements
+# --------------------------------
+# Install the mysql-connector-python package before running main.py
+# Depending on your Python version and OS, use one of the following commands:
+
+# For Python 3.x on Windows / macOS / Linux
+# Open terminal or command prompt:
+#   python -m pip install mysql-connector-python
+# OR
+#   py -m pip install mysql-connector-python  (Windows)
+# OR
+#   python3 -m pip install mysql-connector-python  (Linux/macOS)
+
+# Required package:
+mysql-connector-python
